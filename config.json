@@ -1,0 +1,67 @@
+{
+  "users": [
+    "568b8cf6b102974913a04f0c"
+  ],
+  "status": 1,
+  "serverOptions": {
+    "host": "http://a2s.a2system.net",
+    "port": 4543,
+    "a2sVersion": 0,
+    "a2sV": {
+      "current": 0
+    },
+    "allowOrigin": [
+      "http://www.toroback.com",
+      "http://toroback.com"
+    ],
+    "secret_key": "rWj9soK8RENcuhfILeCwDEdbn"
+  },
+  "gitOptions": {
+    "ssh": {
+      "sshPublicKey": {
+        "id": null,
+        "cert": null,
+        "name": null
+      },
+      "sshPrivateKey": {
+        "id": null,
+        "cert": null,
+        "name": null
+      },
+      "password": null
+    },
+    "https": {
+      "accessToken": null
+    }
+  },
+  "storageOptions": null,
+  "dbOptions": {
+    "pass": "sNwlB8TA",
+    "user": "carlosAppPrueba",
+    "host": "mongodb://localhost/carlosAppPrueba",
+    "name": "carlosAppPrueba"
+  },
+  "socialOptions": null,
+  "pushOptions": null,
+  "mqttOptions": null,
+  "redisOptions": null,
+  "_id": "57bd913b370fe777249ca4f7",
+  "sessionOptions": {
+    "name": "carlosAppPrueba"
+  },
+  "app_key": "uoLOrwD97vCG15D",
+  "creator": "568b8cf6b102974913a04f0c",
+  "name": "carlosAppPrueba",
+  "__v": 0,
+  "path": "/opt/a2server/desa/install/apps/carlosAppPrueba/",
+  "aclOptions": {
+    "enableAcl": false,
+    "noAcl": {
+      "users": {
+        "login": true,
+        "confirm": true,
+        "newDocument": true
+      }
+    }
+  }
+}
